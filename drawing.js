@@ -1,7 +1,4 @@
-////////////////////////////////////////////////////
-// ADD A SCRIPT LEADING TO THIS IN YOUR HTML FILE //
-// EX. <script src=engine/drawing.js></script>    //
-////////////////////////////////////////////////////
+// Engine by devpz
 
 var canvas = document.getElementById("window");
 var ctx = canvas.getContext("2d");
