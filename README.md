@@ -7,5 +7,4 @@ To install, you must have a canvas element in your html file named window. Note 
 ```
 <script src="PATH TO drawing.js"></script>
 ```
-. 
 Now you are free to create 3D objects in your canvas!
