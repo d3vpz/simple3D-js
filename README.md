@@ -11,4 +11,4 @@ Now you are free to create 3D objects in your canvas!
 
 ## DEMO
 
-To use the demo, you can click the link next to the code, or just use this link: [https://www.devpooldotmsi.github.io/simple3D-js](https://devpooldotmsi.github.io/simple3D-js/)https://devpooldotmsi.github.io/simple3D-js/
+To use the demo, you can click the link next to the code, or just use this link: [https://www.devpooldotmsi.github.io/simple3D-js](https://devpooldotmsi.github.io/simple3D-js/)
