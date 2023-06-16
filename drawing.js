@@ -1,4 +1,4 @@
-// Engine by devpz
+// devpz
 
 var canvas = document.getElementById("window");
 var ctx = canvas.getContext("2d");
