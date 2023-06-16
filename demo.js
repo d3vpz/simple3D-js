@@ -1,6 +1,6 @@
 function main() {
   clearScreen();
-  strokeColor("white");
+  strokeColor("black");
   rect_prism(50, 0, 100, 50, 50, 50);
 }
 
